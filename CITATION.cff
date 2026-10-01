@@ -1,0 +1,19 @@
+
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the repository and associated article."
+title: "Arabidopsis 25-generation stress inheritance: UVC analysis code"
+version: "1.0.0"
+date-released: "2026-10-01"
+type: software
+authors:
+  - family-names: "Kovalchuk"
+    given-names: "Igor"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/OWNER/arabidopsis-25gen-stress-uvc"
+keywords:
+  - Arabidopsis thaliana
+  - UVC
+  - DNA methylation
+  - whole-genome sequencing
+  - whole-genome bisulfite sequencing
+license: "NOASSERTION"
